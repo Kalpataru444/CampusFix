@@ -38,12 +38,12 @@ status.
 
 ## How to Run
 
-Install the required dependency:
+###Install the required dependency:
 ```bash
 pip install streamlit
 
-Run the application:
+###Run the application:
 streamlit run app.py
 
-Team Logic Launchers
+##Team Logic Launchers
 Developed for TechStorm 2.0.
